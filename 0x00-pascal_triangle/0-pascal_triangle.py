@@ -1,4 +1,14 @@
+#!/usr/bin/python3
+"""
+file contains the function to create pascals triangle
+"""
+
+
 def pascal_triangle(n):
+    """
+    function creates and returns a list of lists
+    representing pascals triangle.
+    """
     triangle = []
     if n <= 0:
         return triangle
