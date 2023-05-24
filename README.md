@@ -9,3 +9,9 @@
 ## 0x03. Log Parsing
 
 ## 0x04. UTF-8 Validation
+
+## 0x06-starwars_api
+
+## 0x08-making_change
+
+## 0x09-island_perimeter
